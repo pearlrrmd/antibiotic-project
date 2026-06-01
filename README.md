@@ -1,2 +1,2 @@
-# antibiotic-projrct
+# antibiotic-project
 Connecting bacterial antibiotic resistance to cybersecurity
